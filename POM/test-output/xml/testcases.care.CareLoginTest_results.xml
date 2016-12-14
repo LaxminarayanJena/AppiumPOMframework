@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login With Email"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.470">
+  <properties />
+  
+  
+            <testcase name="signUpEmailandSelectACareGiver" time="1.413" classname="testcases.care.CareLoginTest" />
+                <testcase name="validateButtons" time="2.057" classname="testcases.care.CareLoginTest" />
+      
+</testsuite>
